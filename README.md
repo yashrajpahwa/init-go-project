@@ -12,7 +12,8 @@ No external package has been used.
 
 ### Usage
 
-At present the only option is to build from source.
+- At present the only option is to build from source.
+- The environment variables `GOPATH` & `GITHUB_USERNAME` must be set.
 
 ### Steps to Build App
 
